@@ -1,0 +1,4 @@
+bool checkPalindrome(string s)
+// {
+
+// }
